@@ -2,12 +2,12 @@
 
 This repo **AutoML-AutoKeras-HPO** is a curated list of *automated machine learning* tehcniques and projects. **Star** this repository, and then you can keep abreast of the latest developments of this booming research field which I would keep updating it. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
 
-# Agenda - 
-[Introduction to AutoML](#Introduction-to-AutoML)
-[High Level technique needed in AutoML](#High-Level-technique-needed-in-AutoML)
-[Comparative view of Commercial AutoML Offerings](#Comparative-view-of-Commercial-AutoML-Offerings)
-[Comparative view of AutoML Projects TYPES NAS HPO AutoFE](#Comparative-view-of-AutoML-Projects-TYPES-NAS-HPO-AutoFE)
-[Detailed Insight into the constructs of AutoML ecosystems](#Detailed-Insight-into-the-constructs-of-AutoML-ecosystems)
+# Agenda 
+- [Introduction to AutoML](#Introduction-to-AutoML)
+- [High Level technique needed in AutoML](#High-Level-technique-needed-in-AutoML)
+- [Comparative view of Commercial AutoML Offerings](#Comparative-view-of-Commercial-AutoML-Offerings)
+- [Comparative view of AutoML Projects TYPES NAS HPO AutoFE](#Comparative-view-of-AutoML-Projects-TYPES-NAS-HPO-AutoFE)
+- [Detailed Insight into the constructs of AutoML ecosystems](#Detailed-Insight-into-the-constructs-of-AutoML-ecosystems)
 ```
 - Automated Feature Engineering
   - [Expand Reduce]
