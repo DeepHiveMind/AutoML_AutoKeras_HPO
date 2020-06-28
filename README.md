@@ -2,8 +2,36 @@
 
 This repo **AutoML-AutoKeras-HPO** is a curated list of *automated machine learning* tehcniques and projects. **Star** this repository, and then you can keep abreast of the latest developments of this booming research field which I would keep updating it. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
 
+# Agenda - 
+[Introduction to AutoML](#Introduction-to-AutoML)
+[High Level technique needed in AutoML](#High-Level-technique-needed-in-AutoML)
+[Comparative view of Commercial AutoML Offerings](#Comparative-view-of-Commercial-AutoML-Offerings)
+[Comparative view of AutoML Projects TYPES NAS HPO AutoFE](#Comparative-view-of-AutoML-Projects-TYPES-NAS-HPO-AutoFE)
+[Detailed Insight into the constructs of AutoML ecosystems](#Detailed-Insight-into-the-constructs-of-AutoML-ecosystems)
+```
+- Automated Feature Engineering
+  - [Expand Reduce]
+  - [Hierarchical Organization of Transformations]
+  - [Meta Learning]
+  - [Reinforcement Learning]
+- Architecture Search
+  - [Evolutionary Algorithms]
+  - [Local Search]
+  - [Meta Learning]
+  - [Reinforcement Learning]
+  - [Transfer Learning]
+- Hyperparameter Optimization
+  - [Bayesian Optimization]
+  - [Evolutionary Algorithms]
+  - [Lipschitz Functions]
+  - [Local Search]
+  - [Meta Learning]
+  - [Particle Swarm Optimization]
+  - [Random Search]
+  - [Transfer Learning]
+  ```
 
-# What is AutoML?
+# Introduction to AutoML
 *Automated Machine Learning* (AutoML) provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
 
 Machine Learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
@@ -23,17 +51,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 </div>
 
 
-*AutoML* approaches are already mature enough to rival and sometimes even outperform human machine learning experts. Put simply, *AutoML* can lead to improved performance while saving substantial amounts of time and money, as machine learning experts are both hard to find and expensive. As a result, commercial interest in *AutoML* has grown dramatically in recent years, and several major tech companies and start-up companies are now developing their own *AutoML* systems. An overview comparison of some of them can be summarized to the following table.
-
-| Company    | AutoFE     | HPO        | NAS        |
-| :--------: | :--------: | :--------: | :--------: |
-| Google     |     √      |      √     |      √     |
-| H2O.ai     |     √      |      √     |      ×     |
-| Microsoft  |     ×      |      √     |      √     |
-| Alibaba    |     ×      |      √     |      ×     |
-| Baidu      |     ×      |      ×     |      √     |
-| RapidMiner |     √      |      √     |      ×     |
-
+# High Level technique needed in AutoML
 
 This Repo includes very up-to-date overviews of the bread-and-butter techniques we need in *AutoML*:
 + Automated Data Clean (Auto Clean)
@@ -52,15 +70,25 @@ This Repo includes very up-to-date overviews of the bread-and-butter techniques 
 </div>
 
 
-# Reference Blog
-- AutoML
-   - Methods, Systems, Challenges | [`Download`](https://www.automl.org/book/) |
+# Comparative view of Commercial AutoML Offerings
+
+ - *AutoML* approaches are already mature enough to rival and sometimes even outperform human machine learning experts. Put simply, *AutoML* can lead to improved performance while saving substantial amounts of time and money, as machine learning experts are both hard to find and expensive. 
+ - As a result, commercial interest in *AutoML* has grown dramatically in recent years, and several major tech companies and start-up companies are now developing their own *AutoML* systems. An overview comparison of some of them can be summarized to the following table.
+
+| Company    | AutoFE     | HPO        | NAS        |
+| :--------: | :--------: | :--------: | :--------: |
+| Google     |     √      |      √     |      √     |
+| H2O.ai     |     √      |      √     |      ×     |
+| Microsoft  |     ×      |      √     |      √     |
+| Alibaba    |     ×      |      √     |      ×     |
+| Baidu      |     ×      |      ×     |      √     |
+| RapidMiner |     √      |      √     |      ×     |
 
 
 
- 
 
-# AutoML Projects TYPES NAS HPO AutoFE
+
+# Comparative view of AutoML Projects TYPES NAS HPO AutoFE
 | Project    | Type       | Language   | License    | Link       |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | AdaNet     | NAS        | Python     | Apache-2.0 | [`Github`](https://github.com/tensorflow/adanet) |
@@ -138,8 +166,7 @@ This Repo includes very up-to-date overviews of the bread-and-butter techniques 
   - [Particle Swarm Optimization](#particle-swarm-optimization)
   - [Random Search](#random-search)
   - [Transfer Learning](#transfer-learning)
-- [Performance Prediction](#performance-prediction)
-  - [Performance Prediction](##)
+
 
 
 
@@ -220,4 +247,6 @@ This Repo includes very up-to-date overviews of the bread-and-butter techniques 
   - 2016 | Efficient Transfer Learning Method for Automatic Hyperparameter Tuning | [`PDF`](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)
   
 
-
+# Reference Blog
+- AutoML
+   - Methods, Systems, Challenges | [`Download`](https://www.automl.org/book/) |
