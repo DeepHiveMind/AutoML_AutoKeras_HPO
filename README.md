@@ -2,9 +2,6 @@
 
 This repo **AutoML-AutoKeras-HPO** is a curated list of *automated machine learning* tehcniques and projects. **Star** this repository, and then you can keep abreast of the latest developments of this booming research field which I would keep updating it. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
 
-<div style="text-align: center">
-<img src="resources/banner.png" atl="banner"/>
-</div>
 
 # What is AutoML?
 *Automated Machine Learning* (AutoML) provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
